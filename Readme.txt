@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: SnapFolio
-Template URL: https://bootstrapmade.com/snapfolio-bootstrap-portfolio-template/
+Template Name: Sailor
+Template URL: https://bootstrapmade.com/sailor-free-bootstrap-theme/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
